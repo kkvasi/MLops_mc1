@@ -1,0 +1,9 @@
+boto3
+sagemaker
+pandas
+os
+joblib
+tarfile
+numpy
+sklearn
+io
